@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm ABXAR</h1>
+<h3>HOW YOU DOING MATE!!</h3> 
 
-<!--
-**AB-X-AR/AB-X-AR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/AB-X-AR">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
+  <a href="https://discord.com/H2wpKHEM">
+    <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
+  <a href="https://x.com/ABXAR_7x30">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x">
+      <img alt="Threads" title="Threads" height="48" width="48" src="https://cdn.simpleicons.org/x"></picture></a>
+</p>
