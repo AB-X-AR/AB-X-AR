@@ -63,4 +63,47 @@
 
 ---
 
+
+
+## **My Certifications**
+
+<table>
+  <tr>
+    <td colspan="2" align="center"><strong>EC-COUNCIL</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/AB-X-AR/AB-X-AR/refs/heads/main/certificates/certfceh1.png" width="400" /></td>
+    <td><img src="https://raw.githubusercontent.com/AB-X-AR/AB-X-AR/refs/heads/main/certificates/certfehe1.png" width="400" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>TRY HACK ME</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/AB-X-AR/AB-X-AR/refs/heads/main/certificates/certfthm5.png" width="400" /></td>
+    <td><img src="https://raw.githubusercontent.com/AB-X-AR/AB-X-AR/refs/heads/main/certificates/certfthm4.png" width="400" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>PALO ALTO</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/AB-X-AR/AB-X-AR/refs/heads/main/certificates/certfpa4.png" width="400" /></td>
+    <td><img src="https://raw.githubusercontent.com/AB-X-AR/AB-X-AR/refs/heads/main/certificates/certfpa1.png" width="400" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/AB-X-AR/AB-X-AR/refs/heads/main/certificates/certfpa3.png" width="400" /></td>
+    <td><img src="https://raw.githubusercontent.com/AB-X-AR/AB-X-AR/refs/heads/main/certificates/crtfpa2.png" width="400" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>UDEMY</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/AB-X-AR/AB-X-AR/refs/heads/main/certificates/certfudemy1.jpg" width="400" /></td>
+    <td><img src="https://raw.githubusercontent.com/AB-X-AR/AB-X-AR/refs/heads/main/certificates/certfmosint1.png" width="400" /></td>
+  </tr>
+  
+</table>
+
+
+---
+
 **A PATCH A DAY , KEEPS THE HACKERS AWAY** ~ *abxar*
