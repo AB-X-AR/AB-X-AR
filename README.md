@@ -18,6 +18,7 @@
       <img alt="Threads" title="Threads" height="48" width="48" src="https://cdn.simpleicons.org/x"></picture></a>
 </p>
 
+![TRYHACKME](https://raw.githubusercontent.com/AB-X-AR/AB-X-AR/refs/heads/main/assets/thmprof12825.png)
 
 <div align="center">
 <h2> MAKE A FOLLOW ❤️</h2>
@@ -94,11 +95,19 @@
     <td><img src="https://raw.githubusercontent.com/AB-X-AR/AB-X-AR/refs/heads/main/certificates/crtfpa2.png" width="400" /></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>UDEMY</strong></td>
+    <td colspan="2" align="center"><strong>UDEMY & OTHERS</strong></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/AB-X-AR/AB-X-AR/refs/heads/main/certificates/certfudemy1.jpg" width="400" /></td>
     <td><img src="https://raw.githubusercontent.com/AB-X-AR/AB-X-AR/refs/heads/main/certificates/certfmosint1.png" width="400" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/AB-X-AR/AB-X-AR/refs/heads/main/certificates/certfudemy2.jpg.png" width="400" /></td>
+    <td><img src="https://raw.githubusercontent.com/AB-X-AR/AB-X-AR/refs/heads/main/certificates/certfudemy3.jpg%20.png" width="400" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/AB-X-AR/AB-X-AR/refs/heads/main/certificates/certfict1.png" width="400" /></td>
+    <td><img src="https://raw.githubusercontent.com/AB-X-AR/AB-X-AR/refs/heads/main/certificates/certfksac1.png" width="400" /></td>
   </tr>
   
 </table>
