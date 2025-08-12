@@ -35,7 +35,7 @@
  
  - [CTF Player](https://tryhackme.com/p/ABXAR)
  - [Writeups](https://medium.com/@cyber_comics)
- - [Blogging](https://medium.com/@cyber_comics)
+ - [Blogging](https://abxar.vercel.app/)
 
 
 
