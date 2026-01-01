@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/AB-X-AR/AB-X-AR/blob/main/assets/cybergifopera.gif?raw=true">
+<img width="100%" height="20%" src="https://github.com/AB-X-AR/AB-X-AR/blob/main/assets/cybergifopera.gif?raw=true">
 <div align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Welcome+to+my+profile!" alt="Title"></img>
